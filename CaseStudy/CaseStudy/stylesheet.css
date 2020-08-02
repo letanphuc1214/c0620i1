@@ -331,7 +331,7 @@ body .inputsearch-body a{
     font-size: 14px;
 }
 .border-slider {
-    border: 1px solid #4097da;
+    border: 1px solid #616161;
 }
 .tour-tbody{
     display: flex;
@@ -444,7 +444,7 @@ body .inputsearch-body a{
    text-align: center;
 }
 .blog-text .blog-btn{
-    font-size: 11px;
+    font-size: 14px;
     background-color: #4097da;
     color: #ffffff;
     border: 0;
