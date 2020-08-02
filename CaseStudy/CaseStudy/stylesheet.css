@@ -112,7 +112,7 @@
 } */
 .slide-body .slideshow-image img {
     width: 100%;
-    height: 500px;
+    height: 550px;
 }
 .h3-body{
     color: #ffffff;
@@ -206,7 +206,12 @@ body .inputsearch-body a{
     right: 0;
     border-radius: 3px 0 0 3px;
   }
-
+.info-body-title h2{
+    color: #1666ab; 
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 20px;
+}
 .info-body-catogery{
     border: 2px solid #c7c7c7;
     border-radius: 2px;
@@ -246,6 +251,7 @@ body .inputsearch-body a{
     left: 50%;
     margin-left: -38px;
     margin-top: -11px;
+    box-shadow: 0 4px 1px -1px #570707;
 }
 .info-body-click a{
     color: #ffffff;
