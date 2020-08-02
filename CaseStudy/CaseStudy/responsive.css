@@ -1,0 +1,15 @@
+@media only screen and (max-width: 767px) {
+  .blog-image {
+    float: none;
+  }
+  .blog-text {
+    padding-top: 10px;
+    text-align: center;
+  }
+  .blog-detail {
+    padding-bottom: 40px;
+  }
+  .inputSearch {
+    text-align: center;
+  }
+}
